@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid{
     background-color: rgb(216, 216, 216);
     height: 100px;
@@ -137,3 +138,42 @@
     border-color: rgb(150, 150, 150);
     background-color: rgb(150, 150, 150);
 }
+=======
+.container-fluid{
+    background-color: rgb(216, 216, 216);
+    height: 100px;
+}
+.nav{
+}
+/*  */
+.vert{
+    text-align: center;
+    height: 100px;
+}
+.ia{
+    position: relative;
+    top: 25%;
+    width: auto;
+    height: 100%;
+    background-color: ;
+}
+.ia a{
+    font-size: 30px;
+    color: #302e4d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+}
+.vert:hover{
+    background-color:  rgb(243, 243, 243);
+    transition: 0.4s;
+
+}
+.ia a:hover{
+    color: red;
+    font-size: 32px;
+    text-decoration: none;
+    transition: 0.4s;
+}
+>>>>>>> d2a0064f1d40c115fdff89b5b66ed0fd33055a82
