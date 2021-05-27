@@ -1,0 +1,139 @@
+.container-fluid{
+    background-color: rgb(216, 216, 216);
+    height: 100px;
+}
+.nav{
+}
+/*  */
+.vert{
+    text-align: center;
+    height: 100px;
+}
+.ia{
+    position: relative;
+    top: 25%;
+    width: auto;
+    height: 100%;
+    background-color: ;
+}
+.ia a{
+    font-size: 30px;
+    color: #302e4d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    text-decoration: none;
+}
+.vert:hover{
+    background-color:  rgb(243, 243, 243);
+    transition: 0.4s;
+
+}
+.ia a:hover{
+    color: red;
+    font-size: 32px;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.back{
+    background-color: rgb(224, 224, 224);
+    height: 2000px;
+}
+.front{
+    text-align: center;
+    border: 15px;
+    border-color: red;
+    height: 800px;
+}
+.trans{
+    background-color: white;
+    height: 10%;
+}
+.docpdf{
+    width:100% ;
+    height:100%;
+}
+.frontia{
+    background-color: white;
+    text-align: center;
+    border: 15px;
+    /* border-color: red; */
+    height: auto;
+}
+.part2{
+    height: auto;
+    /* background-color: red; */
+    border-bottom:1px solid rgb(150, 150, 150);
+}
+.verte{
+    /* border-bottom:1px solid rgb(37, 46, 122);   */
+    height: auto;
+    /* background-color: green; */
+}
+.bleu{
+    border-right:1px solid rgb(150, 150, 150);    
+    /* background-color: blue; */
+    height: 100%;
+}
+.rouge{
+ height: auto;
+    /* background-color: red; */
+}
+
+/* .li{
+    width: 1px;
+    height: auto;
+    background-color: black;
+} */
+.evoia{
+    border-bottom:1px solid rgb(150, 150, 150); 
+    border-top:1px solid rgb(150, 150, 150);
+}
+.evo1{
+    border-right:1px solid rgb(150, 150, 150);    
+    /* background-color: blue; */
+    height: auto;
+}
+.evo1 h4{
+    color: #0a0099;
+}
+.evo1 p{
+    text-align: justify;
+
+}
+.evo2{
+    border-right:1px solid rgb(150, 150, 150);    
+    text-align: left;
+    background-color: ;
+    height: auto;
+}
+.evo2 h4{
+    color: #0a0099;
+    text-align: center;
+}
+.evo3 h4{
+    color: #0a0099;
+}
+.evo3{
+    background-color: ;
+    height: auto;
+}
+.evo3 p{
+    text-align: left;
+}
+.btnart{
+    /* width: auto; */
+}
+.art h1{
+    color: #0a0099;
+}
+.az{    
+    color: #0a0099;
+    border-color: rgb(150, 150, 150);
+    font-size: 22px;
+    width: 60%;
+}
+.az:hover{
+    border-color: rgb(150, 150, 150);
+    background-color: rgb(150, 150, 150);
+}

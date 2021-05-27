@@ -1,0 +1,154 @@
+/* veille technologie */
+.btnPopup{
+    color: #302e4d;
+    text-decoration: none;
+    position: relative;
+    top: 12%;
+    left: 3.5%;
+    width: auto;
+    background-color: rgb(233, 233, 233);
+    padding: 1em 2em;
+    cursor: pointer;
+    border-radius: 10px;
+    border-color: black!important;
+    border-width: 1px;  
+    font-size: 20px;
+}
+.btnPopup:hover{
+    color: red;
+    transition: 0.6s;
+    /* background-color: rgb(151, 151, 151); */
+}
+.btnPopup2{
+    color: #302e4d;
+    text-decoration: none;
+    position: relative;
+    top: 12%;
+    left: 6.5%;
+    width: auto;
+    background-color: rgb(233, 233, 233);
+    padding: 1em 2em;
+    cursor: pointer;
+    border-radius: 10px;
+    border-color: black!important;
+    border-width: 1px;  
+    font-size: 20px;
+}
+.btnPopup2:hover{
+    color: red;
+    transition: 0.6s;
+    /* background-color: rgb(151, 151, 151); */
+}
+.btnPopup3{
+    color: #302e4d;
+    text-decoration: none;
+    position: relative;
+    top: 12%;
+    left: 9.5%;
+    width: auto;
+    background-color: rgb(233, 233, 233);
+    padding: 1em 2em;
+    cursor: pointer;
+    border-radius: 10px;
+    border-color: black!important;
+    border-width: 1px;  
+    font-size: 20px;
+}
+.btnPopup3:hover{
+    color: red;
+    transition: 0.6s;
+    /* background-color: rgb(151, 151, 151); */
+}
+.overlay {
+    position: fixed;
+    left: 0px;
+    top:0px;
+    background-color: rgba(0,0 ,0 , 0.5);
+    width: 100%;
+    height: 100%;
+    z-index:1;
+    display:none;
+}
+
+ .popup{
+    margin: 5% auto;
+    width : 73% ;
+    background-color: white;
+    padding: 1em;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    height: auto;
+    overflow-y: scroll;  
+    scrollbar-color: rebeccapurple green;  
+    scrollbar-width: thin;
+    position: relative;
+    top: -5%;
+    left: 11.8%;
+    z-index:1 ;
+    height: 90%;
+}
+.popup h2{
+    font-size: 40px;
+    color: #302e4d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative; 
+}
+.popup h4{
+    font-size: 30px;
+    color: #302e4d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+}
+.popup p{
+    font-size: 30px;
+    color: #636363;
+}
+.btnClose {
+    float: right;
+    font-size:16pt;
+    cursor: pointer;
+    color: rgb(26, 26, 26);
+}
+hr{
+    text-align: center;
+    position: relative;
+    left: ;
+    background-color: red;
+    width: 96%;
+    height: 0.7px;
+}
+.bttn{
+    border-color: red;
+    border-radius: 20px;
+    width: 170px;
+    text-decoration: none;
+    height: 70px;
+    cursor: pointer;
+    background-color: white ;
+    font-size: 20px;
+    color: tomato;
+}
+.techno{
+    padding-bottom: 0;
+    border-radius: 10px;
+    background-color: #FDFDFD;
+    width: 99%;
+    height: 120px;
+}
+.techno h2{
+    font-size: 40px;
+    color: #302e4d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+}
+hr.tec{
+    text-align: center;
+    position: relative;
+    background-color: gray;
+    width: 100%;
+    height: 0.7px;
+}
+/* veille jurisique */
