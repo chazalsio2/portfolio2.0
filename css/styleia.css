@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 .container-fluid{
     background-color: rgb(216, 216, 216);
     height: 100px;
 }
 .nav{
+
 }
 /*  */
 .vert{
@@ -15,7 +15,6 @@
     top: 25%;
     width: auto;
     height: 100%;
-    background-color: ;
 }
 .ia a{
     font-size: 30px;
@@ -37,18 +36,18 @@
     transition: 0.4s;
 }
 .back{
-    background-color: rgb(224, 224, 224);
-    height: 2000px;
+    /* background-color: rgb(224, 224, 224); */
+    height: 1200px;
 }
 .front{
     text-align: center;
     border: 15px;
-    border-color: red;
     height: 800px;
 }
 .trans{
+    width: 100%;
     background-color: white;
-    height: 10%;
+    height: 300px;
 }
 .docpdf{
     width:100% ;
@@ -105,7 +104,6 @@
 .evo2{
     border-right:1px solid rgb(150, 150, 150);    
     text-align: left;
-    background-color: ;
     height: auto;
 }
 .evo2 h4{
@@ -116,7 +114,6 @@
     color: #0a0099;
 }
 .evo3{
-    background-color: ;
     height: auto;
 }
 .evo3 p{
@@ -138,42 +135,3 @@
     border-color: rgb(150, 150, 150);
     background-color: rgb(150, 150, 150);
 }
-=======
-.container-fluid{
-    background-color: rgb(216, 216, 216);
-    height: 100px;
-}
-.nav{
-}
-/*  */
-.vert{
-    text-align: center;
-    height: 100px;
-}
-.ia{
-    position: relative;
-    top: 25%;
-    width: auto;
-    height: 100%;
-    background-color: ;
-}
-.ia a{
-    font-size: 30px;
-    color: #302e4d;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    position: relative;
-    text-decoration: none;
-}
-.vert:hover{
-    background-color:  rgb(243, 243, 243);
-    transition: 0.4s;
-
-}
-.ia a:hover{
-    color: red;
-    font-size: 32px;
-    text-decoration: none;
-    transition: 0.4s;
-}
->>>>>>> d2a0064f1d40c115fdff89b5b66ed0fd33055a82
