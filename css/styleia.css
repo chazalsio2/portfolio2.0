@@ -36,8 +36,8 @@
     transition: 0.4s;
 }
 .back{
-    /* background-color: rgb(224, 224, 224); */
-    height: 1200px;
+    background-color: rgb(224, 224, 224);
+    height: auto;
 }
 .front{
     text-align: center;
@@ -47,7 +47,7 @@
 .trans{
     width: 100%;
     background-color: white;
-    height: 300px;
+    height: 100px;
 }
 .docpdf{
     width:100% ;
