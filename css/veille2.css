@@ -1,0 +1,51 @@
+.top{
+    height: 50px;
+}
+.red{
+    background-color: #F0F0F0;
+
+    height: auto;
+
+}
+.vert{
+    background-color: white;
+    height: auto;
+}
+.vert h1{
+    font-style:unset;
+    font-size: 60px;
+    border-bottom:1px solid white;
+
+}
+/* p,h1,b,u{
+    color: white    
+} */
+.btn{
+
+    text-align: center;
+    position: fixed;
+    font-size:large;
+    width: 150px;
+    top: 20px; left:16%;
+}
+.vert p{
+    font-family: Georgia, serif;
+
+}
+.trans{
+    background-color: white;
+    height: 100px;
+}
+.vert .a {
+    text-decoration: none;
+}
+.vert .img {
+    text-align: center;
+}
+.bleu{
+    background-color: blue;
+    height: 100px;
+}
+.image{
+    text-align: center;
+}

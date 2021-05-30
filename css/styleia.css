@@ -25,7 +25,7 @@
     text-decoration: none;
 }
 .vert:hover{
-    background-color:  rgb(243, 243, 243);
+    /* background-color:  rgb(243, 243, 243); */
     transition: 0.4s;
 
 }
@@ -36,7 +36,7 @@
     transition: 0.4s;
 }
 .back{
-    background-color: rgb(224, 224, 224);
+    /* background-color: rgb(224, 224, 224); */
     height: auto;
 }
 .front{
@@ -137,4 +137,10 @@
 .az:hover{
     border-color: rgb(150, 150, 150);
     background-color: rgb(150, 150, 150);
+}
+
+.btn42{
+    font-size:large;
+    width: 150px;
+    position: fixed;
 }
