@@ -24,30 +24,3 @@
 }
 
 
-=======
-
-.côter .titre a::before{
-    border-top: 4px solid #ec1839;
-    border-left: 4px solid #ec1839;
-}
-
-
-.côter .titre a::after{
-    border-right: 4px solid #ec1839;
-    border-bottom: 4px solid #ec1839;
-}
-
-.côter .nav li a:hover,
-.côter .nav li a.active{
-    color:#ec1839 ;
-}
-
-.titre-sec h2::before,
-.côter .nav-toggler span,
-.côter .nav-toggler span::before,
-.côter .nav-toggler span::after{
-    background-color:#ec1839 ;
-}
-
-
->>>>>>> d2a0064f1d40c115fdff89b5b66ed0fd33055a82

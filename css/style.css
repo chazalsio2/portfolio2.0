@@ -471,7 +471,7 @@ p.pqveille{
     position: relative;
     top: 300PX;
     width: 97.3%;
-    height: 1300px;
+    height: auto;
 }
 .skill1{
     top: 6%;
@@ -592,4 +592,12 @@ p.pqveille{
     height: auto;
 }
 .img .E3{
+}
+/* certification */
+#certification{
+    left: 2.3%;
+    position: relative;
+    top: 300PX;
+    width: 97.3%;
+    height: 1300px;
 }
